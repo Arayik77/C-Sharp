@@ -1,0 +1,15 @@
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\bin\Debug\net7.0\AbstractProject.exe
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\bin\Debug\net7.0\AbstractProject.deps.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\bin\Debug\net7.0\AbstractProject.runtimeconfig.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\bin\Debug\net7.0\AbstractProject.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\bin\Debug\net7.0\AbstractProject.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.csproj.AssemblyReference.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.AssemblyInfoInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.AssemblyInfo.cs
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.csproj.CoreCompileInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\refint\AbstractProject.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\AbstractProject.genruntimeconfig.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\AbstractProject\obj\Debug\net7.0\ref\AbstractProject.dll
