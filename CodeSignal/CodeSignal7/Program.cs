@@ -13,7 +13,7 @@
                 if (k + 1 == myArray[i])
                 {
                     t = true;
-                    k = myArray[i];
+                    k = myArray[i]; // Aro12345
                 }
                 else
                 {
