@@ -3,41 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharp-HomeRead", "C-sharp-HomeRead\C-sharp-HomeRead.csproj", "{1A627A14-5923-49C8-8B63-7940ED9441B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C-sharp-HomeRead", "C-sharp-HomeRead\C-sharp-HomeRead.csproj", "{1A627A14-5923-49C8-8B63-7940ED9441B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymus", "Anonymus\Anonymus.csproj", "{AAF410B5-5342-4007-BBDE-B90DD2EC89BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anonymus", "Anonymus\Anonymus.csproj", "{AAF410B5-5342-4007-BBDE-B90DD2EC89BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class&Struct", "Class&Struct\Class&Struct.csproj", "{6A33D9D6-1B20-4D42-91AC-92E212F3331B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class&Struct", "Class&Struct\Class&Struct.csproj", "{6A33D9D6-1B20-4D42-91AC-92E212F3331B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Const&ReadOnly", "Const&ReadOnly\Const&ReadOnly.csproj", "{118E6773-29AC-424B-9488-C7BBFB50AED5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Const&ReadOnly", "Const&ReadOnly\Const&ReadOnly.csproj", "{118E6773-29AC-424B-9488-C7BBFB50AED5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateProgram", "DelegateProgram\DelegateProgram.csproj", "{2729A7B0-1E19-48BE-BCB3-75E33EC31FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateProgram", "DelegateProgram\DelegateProgram.csproj", "{2729A7B0-1E19-48BE-BCB3-75E33EC31FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile", "DoWhile\DoWhile.csproj", "{84DA787C-91C2-400E-A851-C51654067623}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhile", "DoWhile\DoWhile.csproj", "{84DA787C-91C2-400E-A851-C51654067623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic", "Dynamic\Dynamic.csproj", "{98A4F89F-D5FF-4A64-A527-09348E16FF9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dynamic", "Dynamic\Dynamic.csproj", "{98A4F89F-D5FF-4A64-A527-09348E16FF9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyArrays", "EmptyArrays\EmptyArrays.csproj", "{0957FDAD-4B81-4049-9CBE-3479C43C2452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmptyArrays", "EmptyArrays\EmptyArrays.csproj", "{0957FDAD-4B81-4049-9CBE-3479C43C2452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{F4143A49-38BE-4CA4-AB65-5469390E2AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enum", "Enum\Enum.csproj", "{F4143A49-38BE-4CA4-AB65-5469390E2AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3", "Lesson3\Lesson3.csproj", "{AD00AD85-2DD5-4046-AE42-2B7EE861CE08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson3", "Lesson3\Lesson3.csproj", "{AD00AD85-2DD5-4046-AE42-2B7EE861CE08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson4", "Lesson4\Lesson4.csproj", "{B1D0813B-CCCE-466B-8E21-E40EAA1C1B6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson4", "Lesson4\Lesson4.csproj", "{B1D0813B-CCCE-466B-8E21-E40EAA1C1B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{8F967AA6-531D-4CA5-AE2C-306154CED537}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{8F967AA6-531D-4CA5-AE2C-306154CED537}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ref", "Ref\Ref.csproj", "{92642C71-1EB6-4072-B852-BBC4982DA619}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ref", "Ref\Ref.csproj", "{92642C71-1EB6-4072-B852-BBC4982DA619}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClass", "StaticClass\StaticClass.csproj", "{11264F5D-011B-4D6A-8408-2AA31F3C1018}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClass", "StaticClass\StaticClass.csproj", "{11264F5D-011B-4D6A-8408-2AA31F3C1018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticProject", "StaticProject\StaticProject.csproj", "{1C504E41-FE6E-4F5C-9E28-784328990119}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticProject", "StaticProject\StaticProject.csproj", "{1C504E41-FE6E-4F5C-9E28-784328990119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderRead", "StringBuilderRead\StringBuilderRead.csproj", "{2240DCC7-F683-4C22-A503-8B0A5192C1EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBuilderRead", "StringBuilderRead\StringBuilderRead.csproj", "{2240DCC7-F683-4C22-A503-8B0A5192C1EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{E0DF173B-24B2-4B30-83C7-E5233CA2FC14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{E0DF173B-24B2-4B30-83C7-E5233CA2FC14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Var", "Var\Var.csproj", "{DD897938-20D1-47DD-BC29-11C5957A400E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Var", "Var\Var.csproj", "{DD897938-20D1-47DD-BC29-11C5957A400E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorphism", "Polimorphism\Polimorphism.csproj", "{EFF0F5D1-8380-47BE-8156-5418A696B138}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{DD897938-20D1-47DD-BC29-11C5957A400E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD897938-20D1-47DD-BC29-11C5957A400E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD897938-20D1-47DD-BC29-11C5957A400E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF0F5D1-8380-47BE-8156-5418A696B138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF0F5D1-8380-47BE-8156-5418A696B138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF0F5D1-8380-47BE-8156-5418A696B138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF0F5D1-8380-47BE-8156-5418A696B138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

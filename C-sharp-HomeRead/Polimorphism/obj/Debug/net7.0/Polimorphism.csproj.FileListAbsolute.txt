@@ -1,0 +1,15 @@
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\bin\Debug\net7.0\Polimorphism.exe
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\bin\Debug\net7.0\Polimorphism.deps.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\bin\Debug\net7.0\Polimorphism.runtimeconfig.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\bin\Debug\net7.0\Polimorphism.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\bin\Debug\net7.0\Polimorphism.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.csproj.AssemblyReference.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.AssemblyInfoInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.AssemblyInfo.cs
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\refint\Polimorphism.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\Polimorphism.genruntimeconfig.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-HomeRead\Polimorphism\obj\Debug\net7.0\ref\Polimorphism.dll
