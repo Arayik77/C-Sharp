@@ -1,0 +1,15 @@
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\bin\Debug\net7.0\ArraySort.exe
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\bin\Debug\net7.0\ArraySort.deps.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\bin\Debug\net7.0\ArraySort.runtimeconfig.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\bin\Debug\net7.0\ArraySort.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\bin\Debug\net7.0\ArraySort.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.csproj.AssemblyReference.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.AssemblyInfoInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.AssemblyInfo.cs
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\refint\ArraySort.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ArraySort.genruntimeconfig.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-ClassWork\ArraySort\obj\Debug\net7.0\ref\ArraySort.dll
