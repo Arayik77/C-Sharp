@@ -1,0 +1,15 @@
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\bin\Debug\net7.0\Lesson11.exe
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\bin\Debug\net7.0\Lesson11.deps.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\bin\Debug\net7.0\Lesson11.runtimeconfig.json
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\bin\Debug\net7.0\Lesson11.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\bin\Debug\net7.0\Lesson11.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.csproj.AssemblyReference.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.AssemblyInfoInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.AssemblyInfo.cs
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.csproj.CoreCompileInputs.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\refint\Lesson11.dll
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.pdb
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\Lesson11.genruntimeconfig.cache
+C:\Users\arayi\OneDrive\Desktop\C#\C-sharp-video-youtube\Lesson11\obj\Debug\net7.0\ref\Lesson11.dll
